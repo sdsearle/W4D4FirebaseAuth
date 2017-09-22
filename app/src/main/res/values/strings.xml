@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">W4D4FirebaseAuth</string>
+    <string name="facebook_app_id"></string>
+    <string name="fb_login_protocol_scheme"></string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY"></string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET"></string>
+</resources>
